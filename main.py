@@ -9,7 +9,7 @@ from aiogram import F, Router
 
 # Ваш API ключ от GISMETEO и Telegram API токен
 API_TOKEN = '######'
-GISMETEO_API_KEY = '3817b956-f286-4980-9798-7d27c053c387'  # Пример API-ключа, замените на свой
+GISMETEO_API_KEY = '######'  # Пример API-ключа, замените на свой
 
 # Логирование для отладки
 logging.basicConfig(level=logging.INFO)
